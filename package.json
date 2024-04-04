@@ -1,0 +1,14 @@
+{
+  "name": "lets-go-nubank",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.3"
+  }
+}
